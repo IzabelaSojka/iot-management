@@ -1,0 +1,38 @@
+.container {
+  justify-content: center; 
+  height: 100vh; 
+}
+
+.list-header {
+  text-align: center;
+}
+
+.module-card {
+  background-color: #cde1ef;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 30px;
+  text-align: left;
+  border-radius: 8px; 
+}
+
+.module-title {
+  margin-top: 0;
+}
+
+.module-title a {
+  text-decoration: none;
+  color: #1d0955;
+}
+
+.module-title a:hover {
+  text-decoration: underline;
+}
+
+.module-info {
+  margin-top: 10px;
+}
+
+.module-info p {
+  margin: 5px 0;
+}

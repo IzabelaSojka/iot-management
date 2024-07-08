@@ -1,0 +1,25 @@
+.container {
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .history-container {
+    margin-top: 20px;
+  }
+  
+  label {
+    margin-top: 5px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input, select {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
